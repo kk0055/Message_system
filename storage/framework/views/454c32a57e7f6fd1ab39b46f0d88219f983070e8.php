@@ -1,0 +1,1 @@
+Hey<?php /**PATH C:\Users\Keisuke\Desktop\Message_system\resources\views/sample.blade.php ENDPATH**/ ?>
